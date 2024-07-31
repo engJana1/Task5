@@ -14,8 +14,4 @@ Connecting and programming an electronic circuit Contains 6 motors of type Servo
 - Upload the code to the Arduino.
 
 https://github.com/user-attachments/assets/f4158c4b-b84e-4a5b-a900-05978c2135b5
-## Code C++
 
-### 
-
-  
